@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Звучна листа</title>
+	<trackList>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects%21/01%20Course%20Introduction/001%20Welcome%20to%20This%20Course.mp4</location>
+			<duration>246422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/01%20Course%20Introduction/004%20Setting%20up%20Our%20Tools_%20Brackets%20and%20Google%20Chrome.mp4</location>
+			<duration>252886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects%21/02%20JavaScript%20Language%20Basics/005%20Section%20Intro.mp4</location>
+			<duration>58560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/007%20Introduction%20to%20JavaScript.mp4</location>
+			<duration>274966</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/008%20Getting%20Started%20with%20JavaScript.mp4</location>
+			<duration>298454</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/009%20Variables%20and%20Data%20Types.mp4</location>
+			<duration>542528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/010%20Variable%20Mutation%20and%20Type%20Coercion.mp4</location>
+			<duration>937216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/011%20Operators.mp4</location>
+			<duration>854635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/012%20If%20_%20else%20Statements.mp4</location>
+			<duration>558016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/014%20Coding%20Challenge%201.mp4</location>
+			<duration>122134</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/015%20Coding%20Challenge%201_%20Solution.mp4</location>
+			<duration>846763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/016%20Functions.mp4</location>
+			<duration>954326</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/017%20Statements%20and%20Expressions.mp4</location>
+			<duration>185387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/018%20Arrays.mp4</location>
+			<duration>688128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/019%20Objects%20and%20Properties.mp4</location>
+			<duration>564630</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/020%20Objects%20and%20Methods.mp4</location>
+			<duration>916566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/021%20Loops%20and%20Iteration.mp4</location>
+			<duration>1168171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/022%20Coding%20Challenge%202.mp4</location>
+			<duration>194006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/023%20Coding%20Challenge%202_%20Solution.mp4</location>
+			<duration>799083</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/02%20JavaScript%20Language%20Basics/024%20Important%20Note_%20ES5_%20ES6%20_%20ESE5%20and%20ESE6.mp4</location>
+			<duration>333547</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/025%20Section%20Intro.mp4</location>
+			<duration>79851</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/027%20How%20Our%20Code%20Is%20Executed_%20JavaScript%20Parsers%20and%20Engines.mp4</location>
+			<duration>171926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/028%20Execution%20Contexts%20and%20the%20Execution%20Stack.mp4</location>
+			<duration>365120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/029%20Execution%20Contexts%20in%20Detail_%20Creation%20and%20Execution%20Phases%20and%20Hoisting.mp4</location>
+			<duration>265814</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/030%20Hoisting%20in%20Practice.mp4</location>
+			<duration>754368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/031%20Scoping%20and%20the%20Scope%20Chain.mp4</location>
+			<duration>792022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/032%20The%20_this_%20Keyword.mp4</location>
+			<duration>143211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/03%20How%20JavaScript%20Works%20Behind%20the%20Scenes/033%20The%20_this_%20Keyword%20in%20Practice.mp4</location>
+			<duration>685120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/034%20Section%20Intro.mp4</location>
+			<duration>54123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/036%20The%20DOM%20and%20DOM%20Manipulation.mp4</location>
+			<duration>134720</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/037%205-Minute%20HTML%20and%20CSS%20Crash%20Course.mp4</location>
+			<duration>344534</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/038%20Project%20Setup%20and%20Details.mp4</location>
+			<duration>280107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/039%20First%20DOM%20Access%20and%20Manipulation.mp4</location>
+			<duration>1197120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/040%20Events%20and%20Event%20Handling_%20Rolling%20the%20Dice.mp4</location>
+			<duration>1059435</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/041%20Updating%20Scores%20and%20Changing%20the%20Active%20Player.mp4</location>
+			<duration>863190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/042%20Implementing%20Our%20_Hold_%20Function%20and%20the%20DRY%20Principle.mp4</location>
+			<duration>1048662</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/043%20Creating%20a%20Game%20Initialization%20Function.mp4</location>
+			<duration>688491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/044%20Finishing%20Touches_%20State%20Variables.mp4</location>
+			<duration>468544</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/045%20Coding%20Challenge%203.mp4</location>
+			<duration>154859</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/046%20Coding%20Challenge%203_%20Solution_%20Part%201.mp4</location>
+			<duration>392128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/047%20Coding%20Challenge%203_%20Solution_%20Part%202.mp4</location>
+			<duration>545920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/04%20JavaScript%20in%20the%20Browser_%20DOM%20Manipulation%20and%20Events/048%20Coding%20Challenge%203_%20Solution_%20Part%203.mp4</location>
+			<duration>432171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects%21/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/049%20Section%20Intro.mp4</location>
+			<duration>72299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/051%20Everything%20Is%20an%20Object_%20Inheritance%20and%20the%20Prototype%20Chain.mp4</location>
+			<duration>625963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/052%20Creating%20Objects_%20Function%20Constructors.mp4</location>
+			<duration>866347</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/053%20The%20Prototype%20Chain%20in%20the%20Console.mp4</location>
+			<duration>525078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/054%20Creating%20Objects_%20Object_create.mp4</location>
+			<duration>405654</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/055%20Primitives%20vs_%20Objects.mp4</location>
+			<duration>523862</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/056%20First%20Class%20Functions_%20Passing%20Functions%20as%20Arguments.mp4</location>
+			<duration>913622</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/057%20First%20Class%20Functions_%20Functions%20Returning%20Functions.mp4</location>
+			<duration>529963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/058%20Immediately%20Invoked%20Function%20Expressions%20(IIFE).mp4</location>
+			<duration>406955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/059%20Closures.mp4</location>
+			<duration>1044374</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/060%20Bind_%20Call%20and%20Apply.mp4</location>
+			<duration>1028971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/061%20Coding%20Challenge%204.mp4</location>
+			<duration>431467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/062%20Coding%20Challenge%204_%20Solution_%20Part%201.mp4</location>
+			<duration>1089067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/05%20Advanced%20JavaScript_%20Objects%20and%20Functions/063%20Coding%20Challenge%204_%20Solution_%20Part%202.mp4</location>
+			<duration>962368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/064%20Section%20Intro.mp4</location>
+			<duration>80875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/066%20Project%20Setup%20and%20Details.mp4</location>
+			<duration>285184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/067%20Project%20Planning%20and%20Architecture_%20Step%201.mp4</location>
+			<duration>361131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/068%20Implementing%20the%20Module%20Pattern.mp4</location>
+			<duration>1058752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/069%20Setting%20up%20the%20First%20Event%20Listeners.mp4</location>
+			<duration>967894</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/070%20Reading%20Input%20Data.mp4</location>
+			<duration>991659</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/071%20Creating%20an%20Initialization%20Function.mp4</location>
+			<duration>327019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/072%20Creating%20Income%20and%20Expense%20Function%20Constructors.mp4</location>
+			<duration>577878</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/073%20Adding%20a%20New%20Item%20to%20Our%20Budget%20Controller.mp4</location>
+			<duration>1105515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/074%20Adding%20a%20New%20Item%20to%20the%20UI.mp4</location>
+			<duration>1192363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/075%20Clearing%20Our%20Input%20Fields.mp4</location>
+			<duration>711040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/076%20Updating%20the%20Budget_%20Controller.mp4</location>
+			<duration>678379</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/077%20Updating%20the%20Budget_%20Budget%20Controller.mp4</location>
+			<duration>1260416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/078%20Updating%20the%20Budget_%20UI%20Controller.mp4</location>
+			<duration>715648</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/079%20Project%20Planning%20and%20Architecture_%20Step%202.mp4</location>
+			<duration>161622</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/080%20Event%20Delegation.mp4</location>
+			<duration>241430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/081%20Setting%20up%20the%20Delete%20Event%20Listener%20Using%20Event%20Delegation.mp4</location>
+			<duration>1174955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/082%20Deleting%20an%20Item%20from%20Our%20Budget%20Controller.mp4</location>
+			<duration>1053376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/083%20Deleting%20an%20Item%20from%20the%20UI.mp4</location>
+			<duration>488427</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/084%20Project%20Planning%20and%20Architecture_%20Step%203.mp4</location>
+			<duration>124160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/085%20Updating%20the%20Percentages_%20Controller.mp4</location>
+			<duration>236288</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/086%20Updating%20the%20Percentages_%20Budget%20Controller.mp4</location>
+			<duration>882752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/087%20Updating%20the%20Percentages_%20UI%20Controller.mp4</location>
+			<duration>727830</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/088%20Formatting%20Our%20Budget%20Numbers_%20String%20Manipulation.mp4</location>
+			<duration>1179968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/089%20Displaying%20the%20Current%20Month%20and%20Year.mp4</location>
+			<duration>429120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/090%20Finishing%20Touches_%20Improving%20the%20UX.mp4</location>
+			<duration>639936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/06%20Putting%20It%20All%20Together_%20The%20Budget%20App%20Project/091%20We8217ve%20Made%20It!%20Final%20Considerations.mp4</location>
+			<duration>100331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/092%20Section%20Intro.mp4</location>
+			<duration>61675</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/094%20What_s%20new%20in%20ES6%20_%20ESE5.mp4</location>
+			<duration>319616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/095%20Variable%20Declarations%20with%20let%20and%20const.mp4</location>
+			<duration>1004566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/096%20Blocks%20and%20IIFEs.mp4</location>
+			<duration>234582</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/097%20Strings%20in%20ES6%20_%20ESE5.mp4</location>
+			<duration>622038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/098%20Arrow%20Functions_%20Basics.mp4</location>
+			<duration>502955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/099%20Arrow%20Functions_%20Lexical%20_this_%20Keyword.mp4</location>
+			<duration>1174550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/100%20Destructuring.mp4</location>
+			<duration>484928</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/101%20Arrays%20in%20ES6%20_%20ESE5.mp4</location>
+			<duration>1072619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/102%20The%20Spread%20Operator.mp4</location>
+			<duration>612928</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/103%20Rest%20Parameters.mp4</location>
+			<duration>829078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/104%20Default%20Parameters.mp4</location>
+			<duration>488064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/105%20Maps.mp4</location>
+			<duration>1234539</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/106%20Classes.mp4</location>
+			<duration>601856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/107%20Classes%20with%20Subclasses.mp4</location>
+			<duration>972352</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/108%20Coding%20Challenge%205.mp4</location>
+			<duration>184491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/109%20Coding%20Challenge%205_%20Solution.mp4</location>
+			<duration>1886038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/07%20Get%20Ready%20for%20the%20Future_%20ES6%20_%20ESE5/110%20How%20to%20use%20ESE5%20_%20ES6%20Today!.mp4</location>
+			<duration>878144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/08%20Final%20Course%20Exam_%2030%20Questions%20to%20Test%20Your%20JavaScript%20Knowledge/111%20Some%20Considerations%20Before%20You%20Start.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/09%20Conclusion/112%20Where%20to%20Go%20from%20Here.mp4</location>
+			<duration>115926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/1.%20An%20Example%20of%20Asynchronous%20JavaScript.mp4</location>
+			<duration>387472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/2.%20Understanding%20Asynchronous%20JavaScript%20The%20Event%20Loop.mp4</location>
+			<duration>524748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/3.%20The%20Old%20Way%20Asynchronous%20JavaScript%20with%20Callbacks.mp4</location>
+			<duration>562365</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/4.%20From%20Callback%20Hell%20to%20Promises.mp4</location>
+			<duration>1365055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/5.%20From%20Promises%20to%20AsyncAwait.mp4</location>
+			<duration>649973</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/6.%20AJAX%20and%20APIs.mp4</location>
+			<duration>183694</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/7.%20Making%20AJAX%20Calls%20with%20Fetch%20and%20Promises.mp4</location>
+			<duration>1035076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/10.%20Asynchronous%20JavaScript%20Promises,%20AsyncAwait%20and%20AJAX/8.%20Making%20AJAX%20Calls%20with%20Fetch%20and%20AsyncAwait.mp4</location>
+			<duration>606459</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/1.%20Project%20Overview.mp4</location>
+			<duration>287464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/2.%20An%20Overview%20of%20Modern%20JavaScript.mp4</location>
+			<duration>220126</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/3.%20A%20Brief%20Introduction%20to%20the%20Command%20Line.mp4</location>
+			<duration>691932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/4.%20A%20Modern%20Setup%20Installing%20Node.js%20and%20NPM.mp4</location>
+			<duration>671057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/5.%20A%20Modern%20Setup%20Configuring%20Webpack.mp4</location>
+			<duration>964604</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/6.%20A%20Modern%20Setup%20The%20Webpack%20Dev%20Server.mp4</location>
+			<duration>898706</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/7.%20A%20Modern%20Setup%20Babel.mp4</location>
+			<duration>922413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/8.%20Planning%20our%20Project%20Architecture%20with%20MVC.mp4</location>
+			<duration>185899</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/9.%20How%20ES6%20Modules%20Work.mp4</location>
+			<duration>629308</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/10.%20Making%20our%20First%20API%20Calls.mp4</location>
+			<duration>902073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/11.%20Building%20the%20Search%20Model.mp4</location>
+			<duration>429012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/12.%20Building%20the%20Search%20Controller.mp4</location>
+			<duration>700291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/13.%20Building%20the%20Search%20View%20-%20Part%201.mp4</location>
+			<duration>1456008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/14.%20Building%20the%20Search%20View%20-%20Part%202.mp4</location>
+			<duration>793333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/15.%20Rendering%20an%20AJAX%20Loading%20Spinner.mp4</location>
+			<duration>672009</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/16.%20Implementing%20Search%20Results%20Pagination.mp4</location>
+			<duration>2011267</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/17.%20Building%20the%20Recipe%20Model%20-%20Part%201.mp4</location>
+			<duration>873024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/18.%20Building%20the%20Recipe%20Controller.mp4</location>
+			<duration>855191</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/19.%20Building%20the%20Recipe%20Model%20-%20Part%202.mp4</location>
+			<duration>2429597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/20.%20Building%20the%20Recipe%20View%20-%20Part%201.mp4</location>
+			<duration>837567</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/21.%20Building%20the%20Recipe%20View%20-%20Part%202.mp4</location>
+			<duration>1134574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/22.%20Updating%20Recipe%20Servings.mp4</location>
+			<duration>921995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/23.%20Building%20the%20Shopping%20List%20Model.mp4</location>
+			<duration>922042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/24.%20Building%20the%20Shopping%20List%20View.mp4</location>
+			<duration>407162</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/25.%20Building%20the%20Shopping%20List%20Controller.mp4</location>
+			<duration>975331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/26.%20Building%20the%20Likes%20Model.mp4</location>
+			<duration>403354</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/27.%20Building%20the%20Likes%20Controller.mp4</location>
+			<duration>519965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/28.%20Building%20the%20Likes%20View.mp4</location>
+			<duration>1295395</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/29.%20Implementing%20Persistent%20Data%20with%20localStorage.mp4</location>
+			<duration>838496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/Udemy%20-%20The%20Complete%20JavaScript%20Course%202018%20Build%20Real%20Projects!/11.%20Modern%20JavaScript%20Using%20ES6,%20NPM,%20Babel%20and%20Webpack/30.%20Wrapping%20up%20Final%20Considerations.mp4</location>
+			<duration>434260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+	</extension>
+</playlist>
